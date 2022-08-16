@@ -11,7 +11,7 @@ based on user input temperature shows and background changes to relevant landsca
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[walkthrough.gif](https://i.imgur.com/0OExlUv.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/0OExlUv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
